@@ -1,0 +1,49 @@
+{
+  "tree": [
+    {
+      "id": 1,
+      "label": "A",
+      "children": [
+        {
+          "id": 2,
+          "label": "B",
+          "children": [
+            {
+              "id": 5,
+              "label": "E"
+            },
+            {
+              "id": 6,
+              "label": "F"
+            },
+            {
+              "id": 7,
+              "label": "G"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "label": "C"
+        },
+        {
+          "id": 4,
+          "label": "D",
+          "children": [
+            {
+              "id": 8,
+              "label": "H"
+            },
+            {
+              "id": 9,
+              "label": "I"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
+
